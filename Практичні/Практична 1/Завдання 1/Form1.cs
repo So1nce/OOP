@@ -1,4 +1,4 @@
-namespace Практична1
+namespace Завдання_1
 {
     public partial class Form1 : Form
     {

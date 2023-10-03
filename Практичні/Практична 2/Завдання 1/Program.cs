@@ -1,4 +1,4 @@
-namespace Завданя_1
+namespace Завдання_1
 {
     internal static class Program
     {

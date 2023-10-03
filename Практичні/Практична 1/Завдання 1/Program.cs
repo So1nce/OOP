@@ -1,4 +1,4 @@
-namespace Практическая1_2_
+namespace Завдання_1
 {
     internal static class Program
     {

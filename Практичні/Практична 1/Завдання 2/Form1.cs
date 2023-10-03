@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace Практическая1_2_
+namespace Завдання_2
 {
     public partial class Form1 : Form
     {
