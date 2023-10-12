@@ -1,4 +1,4 @@
-﻿namespace WinButNom
+﻿namespace WinButNum
 {
     partial class Form1
     {
@@ -33,18 +33,21 @@
             // 
             // customButton
             // 
-            customButton.Location = new Point(12, 12);
+            customButton.Location = new Point(14, 16);
+            customButton.Margin = new Padding(3, 4, 3, 4);
             customButton.Name = "customButton";
-            customButton.Size = new Size(97, 38);
+            customButton.Size = new Size(111, 51);
             customButton.TabIndex = 0;
             customButton.Text = "ClickButton";
+            customButton.Click += customButton_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(123, 62);
+            ClientSize = new Size(169, 83);
             Controls.Add(customButton);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);

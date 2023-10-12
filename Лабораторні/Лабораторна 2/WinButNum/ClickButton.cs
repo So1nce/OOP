@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WinButNom
+namespace WinButNum
 {
     internal class ClickButton : System.Windows.Forms.Button
     {

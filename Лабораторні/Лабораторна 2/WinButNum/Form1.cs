@@ -1,10 +1,15 @@
-namespace WinButNom
+namespace WinButNum
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void customButton_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

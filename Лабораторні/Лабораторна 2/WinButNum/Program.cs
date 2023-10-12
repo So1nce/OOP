@@ -1,4 +1,4 @@
-namespace WinButNom
+namespace WinButNum
 {
     internal static class Program
     {
