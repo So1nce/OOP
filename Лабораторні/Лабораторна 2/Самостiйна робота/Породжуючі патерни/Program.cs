@@ -1,4 +1,4 @@
-namespace Лабораторна_2
+namespace Породжуючі_патерни
 {
     internal static class Program
     {

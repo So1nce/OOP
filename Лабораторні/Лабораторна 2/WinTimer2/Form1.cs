@@ -1,4 +1,4 @@
-namespace Лабораторна_2
+namespace WinTimer2
 {
     public partial class Form1 : Form
     {
